@@ -19,5 +19,5 @@ layout:
 {% endcontent-ref %}
 
 {% content-ref url="use-phantom.md" %}
-[use-phantom.md](use-phantom.md)
+[use-solana wallet.md](use-solana wallet.md)
 {% endcontent-ref %}
